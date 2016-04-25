@@ -1,7 +1,8 @@
 #!/usr/bin/python
 
 try:
-    print "Hello, world!";
+    you = "world";
+    print "Hello, %s!"% you;
 except:
     print "Dlrow, olleH!";
     
